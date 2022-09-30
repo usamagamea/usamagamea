@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @usamagamea
 - 👀 I’m interested in Front end development 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Reactive extention javascript
+- 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me osamagamea44@gmail.com
 
 <!---

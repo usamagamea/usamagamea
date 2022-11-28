@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Reactive extention javascript
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me osamagamea44@gmail.com
+- Vist my portflio http://usamagamea.github.io/
 
 <!---
 usamagamea/usamagamea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usamagamea
-- 👀 I’m interested in Front end development 
-- 🌱 I had extensive 3 years experience
+- 👀 I’m interested in front-end development 
+- 🌱 I have extensive 4 years of experience
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me osamagamea44@gmail.com && seniorusamagamea@gmail.com
 - Vist my portflio http://usamagamea.github.io/
